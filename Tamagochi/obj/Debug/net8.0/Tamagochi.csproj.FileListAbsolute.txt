@@ -1,0 +1,15 @@
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\bin\Debug\net8.0\Tamagochi.exe
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\bin\Debug\net8.0\Tamagochi.deps.json
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\bin\Debug\net8.0\Tamagochi.runtimeconfig.json
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\bin\Debug\net8.0\Tamagochi.dll
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\bin\Debug\net8.0\Tamagochi.pdb
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfoInputs.cache
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.AssemblyInfo.cs
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.csproj.CoreCompileInputs.cache
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.sourcelink.json
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.dll
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\refint\Tamagochi.dll
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.pdb
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\Tamagochi.genruntimeconfig.cache
+c:\Users\rasmus.eng\programering\prog2\Tamagochi Projekt\Tamagochi\obj\Debug\net8.0\ref\Tamagochi.dll
