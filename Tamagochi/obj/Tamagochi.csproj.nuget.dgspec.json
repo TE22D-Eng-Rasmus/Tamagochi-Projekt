@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj": {}
+    "C:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj": {
+    "C:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj",
+        "projectUniqueName": "C:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj",
         "projectName": "Tamagochi",
-        "projectPath": "c:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj",
+        "projectPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\Tamagochi.csproj",
         "packagesPath": "C:\\Users\\rasmus.eng\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\obj\\",
+        "outputPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\Tamagochi Projekt\\Tamagochi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
